@@ -35,7 +35,6 @@ Each item in `pack.json` must be an object with these fields:
   - `"CoolMod.dll"` (DLL name to find inside a zip downloaded from `nexus_link`)
 
 Example item:
-```json
 {
   "name": "Cool Mod",
   "type": "mod",
@@ -74,7 +73,6 @@ Each item in `pack.json` must be an object with these fields:
   - `"CoolMod.dll"` (DLL name to find inside a zip downloaded from `nexus_link`)
 
 Example item:
-```json
 {
   "name": "Cool Mod",
   "type": "mod",
